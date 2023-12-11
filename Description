@@ -1,0 +1,23 @@
+MODULE DESCRIPTION
+
+1.	Book Issue: Under this module a book is issued to a student. Following information is collected regarding a book issue.
+    i.	Student roll no
+    ii.	Book no
+       Then, it gives the information of the book and a caution regarding fine.
+2.	Book Deposit: Under this module a book is deposited by a student. Following information is collected regarding a book deposit.
+    i.	Student roll no
+    ii.	Book no
+       Then, it gives the information of the book and fine calculated.
+3.	Administrator Menu: Under this module students records are created, student records are displayed, student records are searched, student records are modified and deleted. New student records are added. We also created records of books, displayed all the book records, searched a book record, modified a book record, deleted a book record. New book records are also added. Following options are available in this module:
+    i.	Create student record 
+    ii.	Display all students records
+    iii.	Display specific student record
+    iv.	 Modify student record
+    v.	 Delete student record
+    vi.	 Add student record
+    vii.	Create Book record
+    viii.	Display all books records
+    ix.	Display specific book record
+    x.	Modify book record
+    xi.	 Delete book record
+    xii.	 Add book records
